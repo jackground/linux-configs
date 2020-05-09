@@ -26,3 +26,7 @@ useradd -m -g users -G wheel -s /bin/bash winston
 
 # create password for winston
 passwd winston
+
+# LARBS install (dwm, st, dmenu)
+curl -L0 larbs.xyz/larbs.sh
+sh larbs.sh
