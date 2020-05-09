@@ -1,7 +1,0 @@
-write startx to launch window manager
-
-CTRL+ ALT+F(2-3-4...) will bring you to the tty
-(ALT+Left/Right to move to different ttys)
-
-
-killall i3 will kill all i3
