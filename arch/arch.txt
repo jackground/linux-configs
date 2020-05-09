@@ -21,7 +21,8 @@ pacman -Qo /usr/include/X11/Xlib.h
 
 
 
-add new user
-useradd -m -g users -G wheel -s /bin/bash <username>
+# add new user "winston"
+useradd -m -g users -G wheel -s /bin/bash winston
 
-
+# create password for winston
+passwd winston
