@@ -30,3 +30,10 @@ passwd winston
 # LARBS install (dwm, st, dmenu)
 curl -L0 larbs.xyz/larbs.sh
 sh larbs.sh
+
+
+#Pacman
+#Search
+pacman -Ss <program name/package>
+
+
