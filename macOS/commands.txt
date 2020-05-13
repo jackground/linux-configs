@@ -1,0 +1,9 @@
+Brew
+
+
+
+htop: activity monitor
+tldr: simplified community-driven version of man pages (not always correct)
+tmux: multiple terminal sessions in one window
+weechat: IRC client
+youtube-dl: download video, audio, etc. from variety of sites
