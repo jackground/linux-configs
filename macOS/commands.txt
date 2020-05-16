@@ -7,3 +7,7 @@ tldr: simplified community-driven version of man pages (not always correct)
 tmux: multiple terminal sessions in one window
 weechat: IRC client
 youtube-dl: download video, audio, etc. from variety of sites
+asciiquarium: ascii aquarium
+
+
+cat: print text of file in terminal
