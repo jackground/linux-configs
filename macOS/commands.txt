@@ -11,3 +11,5 @@ asciiquarium: ascii aquarium
 
 
 cat: print text of file in terminal
+
+reload zsh: source ~/.zshrc
